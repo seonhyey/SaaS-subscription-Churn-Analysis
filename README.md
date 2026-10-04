@@ -21,7 +21,7 @@ An end-to-end data analytics project that cleans raw user logs, queries core Saa
 ---
 
 ## Dashboard Link & Visuals
-**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/seonhye.yun/viz/Saassubscriptionandchurn/1))
+**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/seonhye.yun/viz/Saassubscriptionandchurn/1)
 
 ---
 
